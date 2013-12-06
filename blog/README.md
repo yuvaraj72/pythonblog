@@ -1,8 +1,7 @@
 pythonblog
 =========
 
-A decently featured microblogging web application written in Python and Flask that I'm developing in my Flask Mega
-
+A decently featured microblogging web application written in Python and Flask .
 
 Running
 -------
